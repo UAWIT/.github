@@ -2,6 +2,10 @@
 
 There is some documentation related to UAWIT website development.
 
+Deployed here [Dev](https://uawit-website-dev.vercel.app/)
+
+Sanity studio access [Content](https://uawit-website-dev.vercel.app/studio/structure)
+
 Below is the link for technical documentation [Link to doc](https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit)
 
 Figma 
