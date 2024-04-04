@@ -1,4 +1,14 @@
-## Hi there 👋 hello
+# Hi there 👋 
+
+## UA website
+
+Below is the link for technical documentation
+https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit
+
+Design
+
+Figma Link
+https://www.figma.com/file/QahSPKAg7b2L2BpqsYIdNE/UAWIT?type=design&node-id=188-424&mode=design&t=dsjrMLE2d1576na1-0
 
 <!--
 
