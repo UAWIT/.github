@@ -1,6 +1,6 @@
-![Design_2](https://github.com/UAWIT/.github/assets/1140769/d7d53cfb-b576-4936-9458-5a13c2183c96)# Hi there 👋 
-
 ## UA website
+
+There are some documentation related to UAWIT website development.
 
 Below is the link for technical documentation [Link to doc](https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit)
 
