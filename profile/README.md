@@ -1,16 +1,17 @@
 ## UA website
 
-There are some documentation related to UAWIT website development.
+There is some documentation related to UAWIT website development.
 
 Below is the link for technical documentation [Link to doc](https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit)
+
+Figma 
+https://www.figma.com/file/QahSPKAg7b2L2BpqsYIdNE/UAWIT?type=design&node-id=188-424&mode=design&t=dsjrMLE2d1576na1-0
 
 
 Design
 ![Design_2](https://github.com/UAWIT/.github/assets/1140769/2544f0af-956c-4d37-ad22-4a97eced58eb)
 
 
-Figma 
-https://www.figma.com/file/QahSPKAg7b2L2BpqsYIdNE/UAWIT?type=design&node-id=188-424&mode=design&t=dsjrMLE2d1576na1-0
 
 
 <!--
