@@ -1,17 +1,19 @@
-# Hi there 👋 
+![Design_2](https://github.com/UAWIT/.github/assets/1140769/d7d53cfb-b576-4936-9458-5a13c2183c96)# Hi there 👋 
 
 ## UA website
 
-Below is the link for technical documentation
-https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit
+Below is the link for technical documentation [Link to doc](https://docs.google.com/document/d/1eYfpHAAZ-ivtG9fTmoNs9DXJ2t-AJsTKY9kzWvvfssc/edit)
+
 
 Design
+![Design_2](https://github.com/UAWIT/.github/assets/1140769/2544f0af-956c-4d37-ad22-4a97eced58eb)
 
-Figma Link
+
+Figma 
 https://www.figma.com/file/QahSPKAg7b2L2BpqsYIdNE/UAWIT?type=design&node-id=188-424&mode=design&t=dsjrMLE2d1576na1-0
 
-<!--
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
